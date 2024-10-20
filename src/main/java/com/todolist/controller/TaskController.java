@@ -1,7 +1,7 @@
-package com.todoapp.controller;
+package com.todolist.controller;
 
-import com.todoapp.model.Task;
-import com.todoapp.services.TaskService;
+import com.todolist.model.Task;
+import com.todolist.services.TaskService;
 import java.util.List;
 import java.util.UUID;
 import org.springframework.web.bind.annotation.DeleteMapping;

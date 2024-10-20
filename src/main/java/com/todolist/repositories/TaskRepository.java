@@ -1,6 +1,6 @@
-package com.todoapp.repositories;
+package com.todolist.repositories;
 
-import com.todoapp.model.Task;
+import com.todolist.model.Task;
 import java.util.List;
 import java.util.UUID;
 import org.springframework.data.jpa.repository.JpaRepository;

@@ -1,7 +1,7 @@
-package com.todoapp.services;
+package com.todolist.services;
 
-import com.todoapp.model.Task;
-import com.todoapp.repositories.TaskRepository;
+import com.todolist.model.Task;
+import com.todolist.repositories.TaskRepository;
 import java.util.List;
 import java.util.UUID;
 import org.springframework.stereotype.Service;

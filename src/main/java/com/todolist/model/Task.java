@@ -1,4 +1,4 @@
-package com.todoapp.model;
+package com.todolist.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
